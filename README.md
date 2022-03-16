@@ -28,7 +28,7 @@ Below code block runs apriltag_opencv_demo algoritm and takes images from media 
 
 RESULTS
 
-Input file is created by project members and they are detected with apriltag algorithm. Output file is consist of detected apriltags. Input file consist of tag36h11 type aptiltags. Their photos are taken under some conditions. These conditions are light, photograph angles, apriltag surface, distance. With changing these parameter, detection capability of apriltag algoritm is observed.
+Input file is created by project members and they are detected with apriltag algorithm. Output file is consist of detected apriltags. Input file consist of tag36h11 type aptiltags. Their photos are taken under some conditions. These conditions are light, photograph angles, apriltag surface, distance. With changing these parameters, detection capability of apriltag algoritm is observed.
 
 
 
